@@ -2,7 +2,7 @@
   "name": "jan-30-assignment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Chikku2602/jan-30-assignment.git",
+  "homepage": "https://chikku2602.github.io/jan-30-assignment/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
